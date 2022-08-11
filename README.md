@@ -1,6 +1,7 @@
-# InterfaceMaker
+# TypeScript Helper
 
 Generate TypeScript interfaces from Active Record models
+Credits: https://gist.github.com/zealot128/419949f1c426330493c84bb8eadc4533
 
 ## Installation
 
